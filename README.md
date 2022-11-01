@@ -10,3 +10,13 @@
 •	Controles ImageButton e ImageView <br> 
 •	LinearLayout: Vertical y Horizontal <br>
 •	TableLayout <br>
+
+## Clase 2:
+
+•	ScrollView <br>
+•	FrameLayout <br>
+•	Control Spinner con lista String <br>
+•	Control Spinner con Items con Imagen y TextView<br>
+•	RecycleView <br>
+
+## Clase 3:
